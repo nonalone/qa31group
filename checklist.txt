@@ -1,0 +1,5 @@
+Build:		1.0	
+Environment:	Honor 10, Android 10	
+Project:	ToDoList	
+Tester:		@Andrei_Kud	
+ID:	Description:	Result:	 Attachment:
